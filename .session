@@ -1,0 +1,5 @@
+;;; -*- coding: utf-8; -*-
+;;; Automatically generated on Sun Apr 22 18:11:08 2018
+;;; Invoked by Administrator@OCEAN using 25.3.1
+(setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
+(setq-default occur-collect-regexp-history '("\\1"))
