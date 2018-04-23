@@ -2,25 +2,32 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sun Apr 22 18:11:08 2018
+;; Created Mon Apr 23 19:31:53 2018
 ;; Desktop file format version 208
 ;; Emacs version 25.3.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (23260 24508 974474 100000) (desktop . "208") "Administrator@OCEAN" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 63) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (frameset--id . "183C-EBFA-F958-3A27") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (visibility . t) (width . 238) (left + -8) (top + -8)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 5) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 64) (min-pixel-width . 80) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 40) (min-pixel-height-safe . 16) (min-pixel-width-safe . 16)) leaf (pixel-width . 1920) (pixel-height . 1002) (total-width . 240) (total-height . 62) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 49) (start . 1))))])
+(setq desktop-saved-frameset [frameset 1 (23261 50217 734200 300000) (desktop . "208") "Administrator@OCEAN" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-13-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 63) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (frameset--id . "183C-EBFA-F958-3A27") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (visibility . t) (width . 238) (left + -8) (top + -8)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 13) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 64) (min-pixel-width . 160) (min-pixel-height-ignore . 48) (min-pixel-width-ignore . 104) (min-pixel-height-safe . 16) (min-pixel-width-safe . 32)) hc (pixel-width . 1920) (pixel-height . 1002) (total-width . 240) (total-height . 62) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 1002) (total-width . 120) (total-height . 62) (normal-height . 1.0) (normal-width . 0.5) (buffer "simple.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 4) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 90000) (start . 88524))) (leaf (last . t) (pixel-width . 960) (pixel-height . 1002) (total-width . 120) (total-height . 62) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Help*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
 (setq comint-input-ring nil)
 (setq compile-history nil)
 (setq desktop-missing-file-warning nil)
 (setq dired-regexp-history nil)
 (setq extended-command-history nil)
 (setq face-name-history nil)
-(setq file-name-history nil)
+(setq file-name-history '("c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "~/.emacs.d/org-clock-save.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/subr.el" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/simple.el" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/subr.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "~/.emacs.d/org-clock-save.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "~/.emacs.d/org-clock-save.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "c:/Users/Administrator/Desktop/test" "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v"))
 (setq grep-find-history nil)
 (setq grep-history nil)
+(setq ido-buffer-history nil)
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
 (setq ivy-history nil)
-(setq minibuffer-history nil)
+(setq minibuffer-history '("<="))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
 (setq query-replace-history nil)
-(setq read-expression-history nil)
+(setq read-expression-history '("gnutls-available-p"))
 (setq regexp-history nil)
 (setq regexp-search-ring nil)
 (setq register-alist nil)
@@ -30,3 +37,63 @@
 (setq tags-table-list nil)
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/simple.el"
+  "simple.el"
+  'emacs-lisp-mode
+  '(eldoc-mode undo-tree-mode evil-escape-mode real-auto-save-mode linum-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  90000
+  '(85392 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (83335 81779 80359 75383 70057))))
+
+(desktop-create-buffer 208
+  "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/subr.el"
+  "subr.el"
+  'emacs-lisp-mode
+  '(eldoc-mode undo-tree-mode evil-escape-mode real-auto-save-mode linum-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  5800
+  '(11772 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v"
+  "async_fifo_show_ahead_wr_task_logic.v"
+  'verilog-mode
+  '(undo-tree-mode evil-escape-mode real-auto-save-mode linum-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  930
+  '(930 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (930 930 930 930 930 930 849 849 849 849 849 849 849 1568 5748 1614))))
+
+(desktop-create-buffer 208
+  "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-cfg/.emacs.d/org-clock-save.el"
+  "org-clock-save.el"
+  'emacs-lisp-mode
+  '(eldoc-mode undo-tree-mode evil-escape-mode real-auto-save-mode linum-mode immortal-scratch-mode auto-compile-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode page-break-lines-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode highlight-quoted-mode aggressive-indent-mode elisp-slime-nav-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  42
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . raw-text-dos) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v"
+  "async_fifo_show_ahead.v"
+  'verilog-mode
+  '(undo-tree-mode evil-escape-mode real-auto-save-mode linum-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  6257
+  '(6257 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t))
+  '((mark-ring (2988 1 2614 2988))))
+

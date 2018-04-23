@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ ido-toggle-virtual-buffers
+ Info-virtual-index
+ evil-open-fold
+ auto-insert
+ align-regexp
+ elpamr-create-mirror-for-installed
+ cd
+)
+
+;; ----- smex-data -----
+(
+ (elpamr-create-mirror-for-installed . 2)
+ (align-regexp . 1)
+ (auto-insert . 1)
+ (evil-open-fold . 1)
+ (Info-virtual-index . 1)
+ (ido-toggle-virtual-buffers . 1)
+)

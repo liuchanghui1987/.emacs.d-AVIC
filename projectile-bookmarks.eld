@@ -1,0 +1,1 @@
+("~/.emacs.d/" "g:/important/gnu_emacs/Emacs-Version/emacs/" "g:/FPGA-Design-GitHub/")
