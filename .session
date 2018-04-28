@@ -1,15 +1,16 @@
 ;;; -*- coding: utf-8; -*-
-;;; Automatically generated on Sat Apr 28 20:40:09 2018
+;;; Automatically generated on Sat Apr 28 21:36:38 2018
 ;;; Invoked by Administrator@OCEAN using 25.3.1
 (setq-default session-file-alist '(("~/.emacs.d/custom.el" 1 nil 1 nil nil 3213 (overwrite-mode)) ("c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" 930 930 1 nil nil 930 (overwrite-mode)) ("~/.emacs.d/org-clock-save.el" 42 nil 1 nil nil 54 (overwrite-mode))))
-(setq-default file-name-history '("c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "~/.emacs.d/org-clock-save.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/subr.el" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/simple.el" "c:/Users/Administrator/Desktop/test"))
-(setq-default buffer-name-history '("*Warnings*" "*Messages*" "simple.el"))
+(setq-default file-name-history '(#("g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/loaddefs.el" 0 86 (face ivy-virtual)) "~/.emacs.d/custom.el" "~/.emacs.d/org-clock-save.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/subr.el" "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v" "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/simple.el" "c:/Users/Administrator/Desktop/test"))
+(setq-default buffer-name-history '("async_fifo_show_ahead.v" "loaddefs.el" "org-clock-save.el" "async_fifo_show_ahead_wr_task_logic.v" "subr.el" "*Help*" "*Packages*" "custom.el" "*Warnings*" "*Messages*" "simple.el"))
 (setq-default coding-system-history '("raw-text"))
-(setq-default command-history '((kill-buffer "*Warnings*") (kill-buffer "*Messages*") (kill-buffer "simple.el") (ido-toggle-virtual-buffers) (evil-open-fold) (auto-insert) (align-regexp 5592 5674 "\\(\\s-*\\)<=" 1 1 nil) (elpamr-create-mirror-for-installed)))
-(setq-default counsel-M-x-history '(#("virt" 0 4 (ivy-index 1)) #("virtu" 0 5 (ivy-index 0)) #("evil" 0 4 (ivy-index 53)) #("auto" 0 4 (ivy-index 0)) #("alig reg" 0 8 (ivy-index 0)) "elpamr-create-mirror-for-installed" #("elpa" 0 4 (ivy-index 1))))
+(setq-default command-history '((kill-buffer "async_fifo_show_ahead.v") (kill-buffer "loaddefs.el") (kill-buffer "org-clock-save.el") (kill-buffer "async_fifo_show_ahead_wr_task_logic.v") (kill-buffer "subr.el") (kill-buffer "*Help*") (kill-buffer "*Packages*") (kill-buffer "custom.el") (list-packages nil) (kill-buffer "*Warnings*") (kill-buffer "*Messages*") (kill-buffer "simple.el") (ido-toggle-virtual-buffers) (evil-open-fold) (auto-insert) (align-regexp 5592 5674 "\\(\\s-*\\)<=" 1 1 nil) (elpamr-create-mirror-for-installed)))
+(setq-default counsel-M-x-history '(#("el get" 0 6 (ivy-index 9)) #("list pa" 0 7 (ivy-index 0)) #("virt" 0 4 (ivy-index 1)) #("virtu" 0 5 (ivy-index 0)) #("evil" 0 4 (ivy-index 53)) #("auto" 0 4 (ivy-index 0)) #("alig reg" 0 8 (ivy-index 0)) "elpamr-create-mirror-for-installed" #("elpa" 0 4 (ivy-index 1))))
+(setq-default counsel-describe-symbol-history '(#("custom pac" 0 10 (ivy-index 0))))
 (setq-default counsel-git-grep-cmd-history '("git --no-pager grep --full-name -n --no-color -i -I -e \"%s\""))
 (setq-default evil-jumps-history '((6257 "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v") (74989 "g:/important/gnu_emacs/Emacs-Version/emacs/emacs-sof/share/emacs/25.3/lisp/simple.el") (930 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (849 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (1 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (5646 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (5748 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (5754 "c:/Users/Administrator/Desktop/async_fifo_show_ahead_wr_task_logic.v") (1 "g:/FPGA-Design-GitHub/README.md") (1 "c:/Users/Administrator/Desktop/async_fifo_show_ahead.v")))
 (setq-default minibuffer-history '("<="))
 (setq-default occur-collect-regexp-history '("\\1"))
 (setq-default read-expression-history '("gnutls-available-p"))
-(setq-default smex-history '(ido-toggle-virtual-buffers Info-virtual-index evil-open-fold auto-insert align-regexp elpamr-create-mirror-for-installed cd))
+(setq-default smex-history '(el-get-check-recipe list-packages ido-toggle-virtual-buffers Info-virtual-index evil-open-fold auto-insert align-regexp))
