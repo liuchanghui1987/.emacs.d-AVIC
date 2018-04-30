@@ -1,1 +1,1 @@
-("g:/important/gnu_emacs/Emacs-Version/emacs/" "~/.emacs.d/" "g:/FPGA-Design-GitHub/")
+("~/.emacs.d/" "g:/important/gnu_emacs/Emacs-Version/emacs/" "g:/FPGA-Design-GitHub/")
