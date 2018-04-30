@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ ialign-update
+ ialign-commit
+ ialign
+ list-packages
  w3m-search
  w3m
- list-packages
  el-get-install
- eww
- el-get-check-recipe
- ido-toggle-virtual-buffers
 )
 
 ;; ----- smex-data -----
@@ -18,10 +18,13 @@
  (evil-open-fold . 1)
  (Info-virtual-index . 1)
  (ido-toggle-virtual-buffers . 1)
- (list-packages . 4)
+ (list-packages . 5)
  (el-get-check-recipe . 1)
  (eww . 15)
  (el-get-install . 1)
  (w3m . 1)
  (w3m-search . 1)
+ (ialign . 1)
+ (ialign-commit . 1)
+ (ialign-update . 1)
 )
